@@ -1,2 +1,2 @@
 # cc
-make it easy
+make it easier
