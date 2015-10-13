@@ -1,2 +1,2 @@
-# cc
+# Cc
 make it easier
